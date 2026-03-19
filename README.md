@@ -14,3 +14,5 @@ pongo or ya que quiero que busque que el formato no sea PDF o no tenga formato (
 el [1] porque quiero que sean los primeros 
 
 ##Reto 4: Consultas de complejidad técnica (Nivel y Categoría). Buscamos material para un seminario avanzado de arquitectura de datos. Necesitamos los títulos de los recursos que pertenezcan a las categorías de "XPath" o "XSLT" y que tengan un nivel de dificultad de 5.
+//recurso[categoria='XPath' or categoria='XSLT' and nivel=5]/titulo /string()
+pongo or porque quiero que busque que sea de categoria XPath o XSLT y and porque quiero que tambien sea de nivel de dificultad 5
